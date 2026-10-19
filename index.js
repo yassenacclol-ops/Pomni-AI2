@@ -42,7 +42,7 @@ config.info = {
     channel: "https://chat.whatsapp.com/KFJG6KbpGFf8OlEGf9Rwdc"
   },
   copyright: { 
-    pack: '𝑽𝒐𝒊𝒅'𝒔 𝑩𝒐𝒕 ', 
+    pack: '𝑽𝒐𝒊𝒅 Bot ', 
     author: 'Void'
   },
   images: [
